@@ -1,0 +1,10 @@
+# Inputs to run the peeler
+
+do_load = 0
+do_self_cal = 1
+do_peel = 0
+indisk = 1
+uvdata = JVLA1_small_data.uvfits
+AIPS_user = 6000
+split_pol = 1
+refant = 15
